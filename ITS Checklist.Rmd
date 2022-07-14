@@ -1,0 +1,219 @@
+---
+title: "ITS Checklist"
+author: "Work Planners // SE Region"
+date: '2022-07-07'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(tinytex)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Integrity Tree Service Checklist
+
+##how to make a bullet list
+
+* Item 1
+  * sub item 1 
+  * sub item 2 
+    * sub-sub-item 1b
+
+
+
+
+
+These lists are for protocol recollection for the various repetitive tasks to ensure proper steps are followed each time of asking.
+
+## Pre Trip Truck
+
+- [ ] 360 Walkaround
+   * watch for debris
+   * tire pressure
+   * oilcheck for leaks
+   * watch for kids
+   * check lugnuts (wheels)
+- [ ] Check for Fluids (Under the hood)
+   * oil
+   * brake fluid (make sure it's above the add line)
+   * steering fluid
+   * transmission fluid (if applicable) 
+- [ ] Check Fire Extinguisher and Safety Kit (Monthly / As Needed)
+
+## Pre Trip Trailer
+
+- [ ] Checking Trailer Connection
+   * chains are crossed
+   * breakaway cable has an unobstructed line to the truck
+   * pigtail (i.e. electrical connection) has a firm connection to the female end
+- [ ] Tires are unobstructed (nothing hiding underneath the trailer)
+- [ ] Load securement 
+   * straps
+- [ ] Marker Lights
+   * brake signal
+   * turn signal
+   * hazard
+   
+## Post Trip Trailer (Unloading + Dropping Off)
+
+- [ ] Take out tire stoppers
+   * ?
+
+
+
+Plus one of the following shelter systems;
+
+### Tent
+
+- [ ] Tent, poles & pegs
+- [ ] Sleeping pad
+- [ ] Groundsheet
+
+### Tarp
+
+- [ ] Sleeping pad
+- [ ] Tarp
+- [ ] Guylines
+- [ ] Tent pegs
+- [ ] Groundsheet
+- [ ] Bug net
+
+### Bivibag
+
+- [ ] Bivibag
+- [ ] Sleeping pad
+
+### Hammock
+
+- [ ] Hammock
+- [ ] Bug net
+- [ ] Tarp
+- [ ] Tent pegs
+- [ ] Underquilt
+
+## Kamp Kitchen
+
+- [ ] Pot w/ lid
+- [ ] Pot cleaner
+- [ ] Spices
+- [ ] Titanium mug w/ silicon lip guard
+- [ ] Titanium Spork
+- [ ] Stove (alcohol or MSR Whisperlite)
+- [ ] Windscreen*
+- [ ] Stove fuel
+- [ ] Aeropress and filters
+- [ ] Water filter
+- [ ] Matches
+- [ ] Food sack/hang bag
+- [ ] Tarp
+- [ ] Camp chair
+- [ ] MSR water bladder*
+
+## Ditty Bag/Tool Kit
+
+- [ ] Paracord clothes line
+- [ ] Buff
+- [ ] Headlamp
+- [ ] Duct tape
+- [ ] Zip ties
+- [ ] Pocketknife
+- [ ] First-aid kit
+- [ ] Fire steel
+- [ ] Water purification tabs
+- [ ] Ziplock bags
+- [ ] Leatherman*
+
+## Navigation & Electronics
+
+- [ ] Map
+- [ ] Permits
+- [ ] Compass
+- [ ] USB battery pack*
+- [ ] USB charger*
+- [ ] USB cables (micro & USB C)*
+
+## Clothing
+
+- [ ] Flipflops
+- [ ] Down jacket
+- [ ] Rain/wind jacket
+- [ ] Long sleeve merino wool shirt
+- [ ] Underwear
+- [ ] Light pants
+- [ ] Spare socks
+- [ ] Hat
+- [ ] Swimsuit
+- [ ] Long underwear*
+
+## Wearing
+
+- [ ] Hiking shorts
+- [ ] Hiking shirt
+- [ ] Hiking shoes
+- [ ] Socks
+- [ ] Gaitors*
+- [ ] Gloves
+- [ ] Glasses
+
+## Wash Kit
+
+- [ ] Toothbrush
+- [ ] Toothpaste
+- [ ] Campsuds
+- [ ] Deodorant
+- [ ] Small towel
+- [ ] Advil
+- [ ] Allergy pills
+- [ ] Inhaler
+- [ ] Insect Repellent
+- [ ] Sunscreen*
+
+## Toilet Kit
+
+- [ ] Toilet paper
+- [ ] Trowel
+- [ ] Hand sanitizer
+
+## Food
+
+- [ ] Freeze dried meals
+- [ ] Trail mix
+- [ ] Bars
+- [ ] Coffee
+- [ ] Herbal tea bags
+
+## Other
+
+- [ ] Pack
+- [ ] Waterproof bag for pack
+- [ ] Rain cover
+- [ ] Water bottles
+- [ ] Hiking poles
+- [ ] Water bottles
+- [ ] Whistle
+- [ ] Credit/debit cards and ID
+- [ ] Watch
+- [ ] Car keys
+- [ ] Phone
+- [ ] Camp chairs*
+- [ ] Tarp*
+- [ ] Camera and tripod*
+- [ ] GPS*
+- [ ] Bear spray*
+- [ ] Spare straps*
+
+## Dogs
+
+- [ ] Leashes
+- [ ] Carabiner
+- [ ] Poo bags
+- [ ] Water bowl
+- [ ] Food bowls
+- [ ] Fleece blankets
+- [ ] Food
+- [ ] Treats
+- [ ] Jackets
+
